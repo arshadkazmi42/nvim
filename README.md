@@ -10,6 +10,7 @@ git clone git@github.com:arshadkazmi42/nvim.git ~/.config/nvim
 ```
 
 - Install dependencies
+- [lazygit](https://github.com/jesseduffield/lazygit)
 
 ```
 $ brew install gnu-sed
