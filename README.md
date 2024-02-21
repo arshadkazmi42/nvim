@@ -3,6 +3,7 @@
 
 ## Installation
 
+- `brew install neovim`
 - Clone the repository to `~/.config/nvim`
 
 ```
