@@ -12,6 +12,7 @@ git clone git@github.com:arshadkazmi42/nvim.git ~/.config/nvim
 
 - Install dependencies
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- Install npm
 
 ```
 $ brew install jesseduffield/lazygit/lazygit
