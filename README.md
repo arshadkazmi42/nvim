@@ -17,6 +17,9 @@ git clone git@github.com:arshadkazmi42/nvim.git ~/.config/nvim
 $ brew install jesseduffield/lazygit/lazygit
 $ brew install gnu-sed
 $ brew install lazygit
+$ brew install ripgrep
+$ brew install fd
+
 ```
 
 ## Keymappings
