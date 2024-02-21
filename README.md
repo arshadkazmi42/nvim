@@ -13,6 +13,7 @@ git clone git@github.com:arshadkazmi42/nvim.git ~/.config/nvim
 - [lazygit](https://github.com/jesseduffield/lazygit)
 
 ```
+$ brew install jesseduffield/lazygit/lazygit
 $ brew install gnu-sed
 $ brew install lazygit
 ```
